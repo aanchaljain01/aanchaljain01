@@ -3,11 +3,11 @@
 ### Software Developer | AI Enthusiast
 
 ---
-🔗 Connect with me:
+## 🔗 Connect with me:
 
-GitHub: [https://github.com/aanchaljain01](https://github.com/aanchaljain01)
-Email: aanchalsudhir@gmail.com
-
+* **GitHub:** [https://github.com/aanchaljain01](https://github.com/aanchaljain01)
+* **Email:** aanchalsudhir@gmail.com
+  
 ## 📈 GitHub Stats
 
 The images below are generated dynamically using the **GitHub Readme Stats** tool. **Make sure to change `username=aanchaljain01`**.
