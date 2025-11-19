@@ -15,7 +15,7 @@ The images below are generated dynamically using the **GitHub Readme Stats** too
 
 | Most Used Languages | General Stats |
 | :---: | :---: |
-| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchaljain01&layout=compact&theme=vision-friendly-dark" /> | <img align="right" src="https://github-readme-stats.vercel.app/api?username=aanchaljain01&show_icons=true&theme=vision-friendly-dark&hide_title=true&hide=issues,prs" /> |
+| <img align="left" src="https://www.youtube.com/watch?v=KsZ6tROaVOQ" /> | <img align="right" src="https://www.youtube.com/watch?v=zTJNaZ9AgFE" /> |
 
 ---
 - 🔭 I’m currently working on ...
