@@ -3,7 +3,7 @@
 <!--
 **aanchaljain01/aanchaljain01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Software Developer | AI Enthusiast
+## Software Developer | AI Enthusiast
 🔗 Connect with me:
 
 GitHub: [https://github.com/aanchaljain01](https://github.com/aanchaljain01)
